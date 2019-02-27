@@ -24,4 +24,5 @@ After completing the first three lessons in the HTML and CSS courses, the studen
         <p id="firstParagraph" title="Attributes" style = "color: blue; text-align: left;">Welcome to HTML</p>
         <p id="secondParagraph" title="Paragraph" style = "color: blue; text-align: left;">Basic learning with HTML attributes</p>
     </body>
-</html>```
+</html>
+```
