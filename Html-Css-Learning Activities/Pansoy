@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+   <html>
+
+      <head>
+
+            <title> HTML Attributes</title>
+      <head>
+      <body>
+
+           <h1 title="Lesson3" style="color: blue; text align: center;">Attributes </h1>
+           <p id="firstParagraph" title="Attributes" style="color: blue;">Welcome to Html</p><hr />
+           <p id="secondParagraph" title="Paragraph" style="color: yellow;">Basic Learning</p>
+           <p id="thirdParagraph" title="Paragraph" style="color: green;">More Learning </p>
+           <p id="fourthParagraph" title="Paragraph" style="color: violet;">Serves You Alot of    learnings</p>
+
+      <body>
+<htmL>
