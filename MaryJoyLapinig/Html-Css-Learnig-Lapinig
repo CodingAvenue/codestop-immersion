@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			
+			h1{
+				
+				color : red;
+			}
+			p { 
+			color : yellow;
+			}
+			P1 {
+				color : green;
+
+		</style>
+
+	
+		
+	</head>
+	<body>
+		<h1 title"main heading" title ="Lesson 3" >Attributes</h1>
+		<p id="first paragraph" title = "I love you goodbye" > Welcome to the world of Alien </p>
+		<p id = "second paragraph" title = "Paragraph"> Kung ako na lang sana </p1>
+
+	
+	</body>
+</html>
