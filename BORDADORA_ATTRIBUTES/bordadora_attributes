@@ -1,0 +1,11 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+      <body>
+         <h1 style = "color: blue; text-align: center; "> Attributes </h1>
+         <p style = "color: red; text-align: left; "> this is the first text  </p>
+         <p style = "color: red; text-align: left; "> this is the second text  </p>
+
+</body>
+</html>
