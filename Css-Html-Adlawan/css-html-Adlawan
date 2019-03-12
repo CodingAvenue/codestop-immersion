@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>UC Hymn</h1>
+<p>'Mid these fair Visayan Isles
+
+'Neath these azure blue skies
+
+Stands UC our beloved
+
+Lofty in all her glory
+Sparks of wisdom, hope and joy
+
+Always kindling in our hearts
+
+Thy precious name, thy glorious fame
+
+Will shine through all eternity
+
+
+Thy name shall ever be our guide
+
+Thy light our inspiration
+
+Keep up the light a glowing bright
+
+To thy portals dear ALMA MATER
+
+Hail! Praises be to thee
+
+Onwards show us the way
+
+Faithful and true we'll always be
+
+To thee our ALMA MATER dear.</p>
+
+</body>
+</html>
+
