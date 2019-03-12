@@ -4,14 +4,14 @@
 	<style> 
 	 body {background-color: pink;}
 
-	h1 {
+	#center {
 		color: blue;
 		text-align: center;
 		font-family: Times New Roman;
 		font-size: 22;
 	   }
 	
-	p {
+	#left {
 		color: red;
 		text-align: left;
 	  }
@@ -20,8 +20,8 @@
 	
  </head>
  <body>
-	<h1>Senior High School</h1>
-	<p>(K to 12 Learners: Ready to Face Life's Challenges)</p>
-	<p>The K to 12 Program covers Kindergarten and 12 years of basic education (six years of primary education, four years of Junior High School, and two years of Senior High School [SHS]) to provide sufficient time for mastery of concepts and skills, develop lifelong learners, and prepare graduates for tertiary education, middle-level skills development, employment, and entrepreneurship.</p>
+	<h1 id="center">Senior High School</h1>
+	<p id="left">(K to 12 Learners: Ready to Face Life's Challenges)</p>
+	<p id="left">The K to 12 Program covers Kindergarten and 12 years of basic education (six years of primary education, four years of Junior High School, and two years of Senior High School [SHS]) to provide sufficient time for mastery of concepts and skills, develop lifelong learners, and prepare graduates for tertiary education, middle-level skills development, employment, and entrepreneurship.</p>
  </body>
 </html>
