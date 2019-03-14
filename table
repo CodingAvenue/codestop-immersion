@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>My Table</title>
+	</head>
+		<style>
+			caption{
+			   	font-size: 20px;
+			       }
+
+			       th{
+			   	color: blue;
+			       }
+
+			       td{
+			   	color: green;
+			       }
+		</style>
+	<body>
+		<table styles="border: solid 1px; text-align: center; border collapse: collapse">
+			<caption>Animal Planet</caption>
+			<thead>
+				<tr>
+				    <th style="border: solid 1px">Animal Kind</th>
+				    <th style="border: solid 1px">Gender</th>
+				    <th style="border: solid 1px">Age</th>
+				    <th style="border: solid 1px">Nickname</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+				    <td style="border: solid 1px">Dog</td>
+				    <td style="border: solid 1px">Female</td>
+				    <td style="border: solid 1px">4</td>
+				    <td style="border: solid 1px">Arby</td>
+				</tr>
+				<tr>
+				    <td style="border: solid 1px">Lion</td>
+				    <td style="border: solid 1px">Male</td>
+				    <td style="border: solid 1px">8</td>
+				    <td style="border: solid 1px">Jacob</td>
+				</tr>
+				<tr>
+				    <td style="border: solid 1px">Tiger</td>
+				    <td style="border: solid 1px">Male</td>
+				    <td style="border: solid 1px">6</td>
+				    <td style="border: solid 1px">Buwbuw</td>
+				</tr>
+			</tbody>
+	</body>			
+</html>
+
+
