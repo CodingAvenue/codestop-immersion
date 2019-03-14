@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Using Tables</title>
+    </head>
+    <body>
+				
+			h1{
+				
+				color : blue;
+			}
+			p { 
+			color : yellow;
+			}
+			P1 {
+				color : green;
+
+		</style>
+        <table style="border: solid 1px; text-align: center; border-collapse: collapse">
+            <caption>Uc Employee</caption>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th style="border: solid 1px">Gender</th>
+                    <th style="border: solid 1px">Name</th>
+                    <th style="border: solid 1px">Age</th>
+                    <th style="border: solid 1px">Height in cm</th>
+                    <th style="border: solid 1px">Position</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="2" style="border: solid 1px">Regular Agency</td>
+                    <td style="border: solid 1px">Female</td>
+                    <td style="border: solid 1px">Jessica</td>
+                    <td style="border: solid 1px">45</td>
+                    <td style="border: solid 1px">162</td>
+                    <td style="border: solid 1px">Manager</td>
+                </tr>
+                <tr>
+                    <td style="border: solid 1px">Male</td>
+                    <td style="border: solid 1px">Joshua</td>
+                    <td style="border: solid 1px">47</td>
+                    <td style="border: solid 1px">198</td>
+                    <td style="border: solid 1px">CEO</td>
+                </tr>
+                <tr>
+                    <td rowspan="2" style="border: solid 1px">LLS Agency</td>
+                    <td style="border: solid 1px">Female</td>
+                    <td style="border: solid 1px">Jane</td>
+                    <td style="border: solid 1px">57</td>
+                    <td style="border: solid 1px">165</td>
+                    <td style="border: solid 1px">Supervisor</td>
+                </tr>
+                  <tr>
+                    <td style="border: solid 1px">Male</td>
+                    <td style="border: solid 1px">Severny</td>
+                    <td style="border: solid 1px">50</td>
+                    <td style="border: solid 1px">189</td>
+                    <td style="border: solid 1px">Head on Chief</td>
+                </tr>
+                <tr style="border: solid 1px">
+                    <td colspan="6"> Updated employee as of 2019</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
+
