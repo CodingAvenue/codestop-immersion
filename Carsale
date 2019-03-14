@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Car Sale</title>
+    </head>
+	    <style>
+			caption{
+				    
+				    font-size: 30px;
+			}
+			th{
+				     color: blue;
+			}
+			td{
+				     color: red;
+			}
+	    </style>   
+    <body>
+        <table style="border: solid 1px; text-align: center; border-collapse: collapse">
+            <caption>Car For Sale</caption>
+            <thead>
+                <tr>
+                    <th style="border: solid 1px">Car Brand</th>
+                    <th style="border: solid 1px">Car Model</th>
+                    <th style="border: solid 1px">Transmission</th>
+		    <th style="border: solid 1px">Speed</th>
+                    <th style="border: solid 1px">Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="border: solid 1px">Ford</td>
+                    <td style="border: solid 1px">Mustang GT</td>
+                    <td style="border: solid 1px">Automatic</td>
+		    <td style="border: solid 1px">157 mph</td>
+                    <td style="border: solid 1px">3,200,000</td>
+                </tr>
+                <tr>
+                    <td style="border: solid 1px">Chevrolet</td>
+                    <td style="border: solid 1px">Camaro ZL1</td>
+                    <td style="border: solid 1px">Automatic</td>
+		    <td style="border: solid 1px">198 mph</td>
+                    <td style="border: solid 1px">3,500,000</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Toyota</td>
+                    <td style="border: solid 1px">GT86</td>
+                    <td style="border: solid 1px">Manual</td>
+		    <td style="border: solid 1px">130 mph</td>
+                    <td style="border: solid 1px">2,100,000</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Subaru</td>
+                    <td style="border: solid 1px">BRZ</td>
+                    <td style="border: solid 1px">Manual</td>
+		    <td style="border: solid 1px">143 mph</td>
+                    <td style="border: solid 1px">2,000,000</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Kia</td>
+                    <td style="border: solid 1px">Sorento</td>
+                    <td style="border: solid 1px">Manual</td>
+		    <td style="border: solid 1px">100 mph</td>
+                    <td style="border: solid 1px">1,500,000</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
