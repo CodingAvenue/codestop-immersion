@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	table, th, td {
+		border: solid 1px;
+	}
+	img {
+		height:200px;
+		width: 200px;
+	}
+	</style>
+	<title>Activity 3</title>
+</head>
+<body>
+	<table>	
+		<caption>Computer Hardware Servicing Tools List</caption>
+	<thead>		
+		<tr>
+			<th>Tool</th>
+			<th>Tool Name</th>
+			<th>Use</th>
+			<th>Price (php)</th>
+		</tr>
+	</thead>
+	<tbody style="text-align:center">
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/Crimper.jpeg"></td>
+			<td>Crimper</td>
+			<td>Used to attach connectors to wires</td>
+			<td>499</td>
+		</tr>	
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/tweezer.jpeg"></td>
+			<td>Tweezer</td>
+			<td>Used to retrieve parts from locations that are too small for your hand to fit</td>
+			<td>199</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/pliers.jpeg"></td>
+			<td>Needle-nosed Pliers</td>
+			<td>Used to hold small parts</td>
+			<td>219</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/phillips.jpg"></td>
+			<td>Phillips-head screwdriver</td>
+			<td>Used to tighten or loosen cross-headed screws</td>
+			<td>109</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/flat.jpeg"></td>
+			<td>Flat-head screwdriver</td>
+			<td>Used to tighten or loosen slotted screws</td>
+			<td>109</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/torx.jpeg"></td>
+			<td>Torx screwdriver</td>
+			<td>Used to tighten or loosen screws that have a star-like depression on the top, a feature that is mainly found on laptops</td>
+			<td>199</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/nut.jpeg"></td>
+			<td>Hex driver</td>
+			<td>Used to tighten or loosen nuts in the same way that a screwdriver tightens or loosens screws (sometimes called a nut driver)</td>
+			<td>209</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/cutter.jpeg"></td>
+			<td>Wire Cutters</td>
+			<td>Used to strip and cut wires</td>
+			<td>150</td>
+		</tr>
+		<tr>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/flashlight.jpg"></td>
+			<td>Flashlight</td>
+			<td>Used to light up areas that you cannot see well</td>
+			<td>299</td>
+		</tr>
+	</tbody>
+		
+		
+	
+	</table>
+</body>
+</html>
