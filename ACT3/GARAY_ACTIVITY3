@@ -2,17 +2,56 @@
 <html>
 <head>
 	<style>
-	table, th, td {
-		border: solid 1px;
+	body {
+		background-color: #042c71;
+	}
+	header {
+		text-align: center;
+		position: fixed;
+		height: auto;
+		width: 100%;
+		background-color: teal;
+		top: 0px;
+		left: 0px;	
+	}
+	caption {
+		margin-top: 10%;
+		background-color: gray;
+		font-family: sans-serif;
+		padding: 5px;
+		border: solid 5px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+	table, td {
+ 		margin-top: auto;
+		border: solid 5px #ededed;
+		font-family: sans-serif;
+		font-weight: 400;
+		background-color: #a8ccd7;
+	}
+	th {
+		border: solid 5px #ededed;
+		background-color: #222;
+		color: white;
+		font-family: sans-serif;
+		font-weight: 400;
 	}
 	img {
-		height:200px;
-		width: 200px;
+		height:150px;
+		width: 150px;
+		box-shadow: 10px 5px 5px black;
 	}
 	</style>
-	<title>Activity 3</title>
+	<title>HS Tools for students</title>
 </head>
 <body>
+	<header>
+		<h1 style="color: black">Activity 4</h1>
+		<p>Made by <strong><a href="https://github.com/keyzkieidan" target="_blank">Idan Joshua T. Garay</a></Strong></p>
+		
+	</header>
 	<table>	
 		<caption><a href="http://www.ciscopress.com/articles/article.asp?p=2086239&seqNum=7" target="_blank">Computer Hardware Servicing Tools List</a></caption>
 	<thead>		
@@ -25,55 +64,55 @@
 	</thead>
 	<tbody style="text-align:center">
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/Crimper.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/Crimper.jpeg"></td>
 			<td>Crimper</td>
 			<td>Used to attach connectors to wires</td>
 			<td>499</td>
 		</tr>	
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/tweezer.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/tweezer.jpeg"></td>
 			<td>Tweezer</td>
 			<td>Used to retrieve parts from locations that are too small for your hand to fit</td>
 			<td>199</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/pliers.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/pliers.jpeg"></td>
 			<td>Needle-nosed Pliers</td>
 			<td>Used to hold small parts</td>
 			<td>219</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/phillips.jpg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/phillips.jpg"></td>
 			<td>Phillips-head screwdriver</td>
 			<td>Used to tighten or loosen cross-headed screws</td>
 			<td>109</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/flat.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/flat.jpeg"></td>
 			<td>Flat-head screwdriver</td>
 			<td>Used to tighten or loosen slotted screws</td>
 			<td>109</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/torx.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/torx.jpeg"></td>
 			<td>Torx screwdriver</td>
 			<td>Used to tighten or loosen screws that have a star-like depression on the top, a feature that is mainly found on laptops</td>
 			<td>199</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/nut.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/nut.jpeg"></td>
 			<td>Hex driver</td>
 			<td>Used to tighten or loosen nuts in the same way that a screwdriver tightens or loosens screws (sometimes called a nut driver)</td>
 			<td>209</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/cutter.jpeg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/cutter.jpeg"></td>
 			<td>Wire Cutters</td>
 			<td>Used to strip and cut wires</td>
 			<td>150</td>
 		</tr>
 		<tr>
-			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/HTMLCSS_Activity/flashlight.jpg"></td>
+			<td><img src="/home/idanjoshuatgaray/Desktop/codestop-immersion/ACT3/flashlight.jpg"></td>
 			<td>Flashlight</td>
 			<td>Used to light up areas that you cannot see well</td>
 			<td>299</td>
