@@ -1,0 +1,54 @@
+* {
+	font-family: century gothic;
+}
+table{
+	border-collapse: collapse;
+	background-color: white;
+}
+th {
+	border: solid 3px;
+	padding: 10px;
+	text-align: center;
+	background-color: #B8B8B8;
+}
+td {
+	border: solid 1px;
+	padding: 10px;
+	text-align: center;
+}	
+.common {
+	background-color: #C9BFBF;
+}
+.uncommon {
+	background-color: #41E000;
+}
+.rare {
+	background-color: #6AC2FE;
+}
+.epic {
+	background-color: #E453FE;
+}
+.legendary {
+	background-color: #F9FE53;
+}
+img {
+	width:100px;
+	height:75px;
+}
+footer {
+	background-image: linear-gradient(red, yellow);
+	text-align: center;
+	padding: 30px;
+	width:1185px;
+	border: solid 3px;
+}
+p {
+	text-align: center;
+	font-size: 10px;
+}
+h1 {
+	text-align: center;
+}
+body {
+	background-image: linear-gradient(#01DF90, #95FFE8);
+}
