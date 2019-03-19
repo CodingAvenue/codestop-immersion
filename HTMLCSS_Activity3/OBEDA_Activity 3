@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Animals</title>
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="header">
+            <h1>Classification of Animals </h1>
+	    <h2>By:Khier Obeda</h2>
+        </div>
+
+        <div class="clearfix">
+            <div class="column menu">
+                <ul>
+		    <p>More Information:</p>
+                    <li><a href="https://en.wikipedia.org/wiki/Mammal">Mammals</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Reptile">Reptiles</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Bird">Birds</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Amphibian">Amphibians</a></li>
+                </ul>
+            </div>
+            
+        <table style="border: solid 1px; text-align: center; border-collapse: collapse: table style="text-align:center;">
+            <caption>List of Animals</caption>
+            <thead>
+ 		
+                <tr>
+                    <th style="border: solid 1px;background-color:red">Classification</th>
+                    <th style="border: solid 1px;background-color:red">Species</th>
+		    <th style="border: solid 1px;background-color:red">Image</th>
+                    <th style="border: solid 1px;background-color:red">Habitat</th>
+                    <th style="border: solid 1px;background-color:red">Population</th>
+                    <th style="border: solid 1px;background-color:red">Order</th>
+                    <th style="border: solid 1px;background-color:red">Informations</th>
+                </tr>
+            </thead>
+            <tbody>
+		   
+                <tr>
+                    <td rowspan="3" style="border: solid 1px">Mammals</td>
+                    <td style="border: solid 1px">Tiger</td>
+                    <td style="border: solid 1px"><img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/tayger.jpeg"></td>
+                    <td style="border: solid 1px">Land</td>
+                    <td style="border: solid 1px">100,000</td>
+                    <td style="border: solid 1px">Carnivore</td>
+		    <td style="border: solid 1px">Tigers occupy a variety of habitats from tropical forests, evergreen forests, woodlands and mangrove swamps to grasslands, savannah and rocky country. They are mostly nocturnal (more active at night) and are ambush predators that rely on the camouflage their stripes provide.</td>
+                </tr>
+                <tr>
+                    <td style="border: solid 1px">Pig</td>
+                    <td style="border: solid 1px"><img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/pig.jpeg"></td>
+                    <td style="border: solid 1px">Land</td>
+                    <td style="border: solid 1px">198,000</td>
+                    <td style="border: solid 1px">Herbivore</td>
+		    <td style="border: solid 1px">A pig is any of the animals in the genus Sus, within the even-toed ungulate family Suidae. Pigs include the domestic pig and its ancestor, the common Eurasian wild boar (Sus scrofa), along with other species. ... Biologically, pigs are very similar to humans, thus are frequently used for human medical research.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Dolphins</td>
+                    <td style="border: solid 1px"><img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/dolphin.jpeg"></td>
+                    <td style="border: solid 1px">Water</td>
+                    <td style="border: solid 1px">150,000</td>
+                    <td style="border: solid 1px">Carnivore</td>
+		    <td style="border: solid 1px">The smallest of the dolphin species, Maui's Dolphin, is around 4 feet (1.2m) long and weighs around 90 lbs (40 kg). The largest dolphin species is the orca, or killer whale. ... Lifespan: Most dolphins live long lives. The bottlenose dolphin can live over 40 years, and the orca can live to be 70 or 80!</td>
+                </tr>
+                <tr>
+                    <td rowspan="3" style="border: solid 1px">Reptiles</td>
+                    <td style="border: solid 1px">Snake</td>
+                    <td style="border: solid 1px"><img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/snake.jpeg"></td>
+                    <td style="border: solid 1px">Land</td>
+                    <td style="border: solid 1px">165,000</td>
+                    <td style="border: solid 1px">Carnivore</td>
+		    <td style="border: solid 1px">Snakes are found on every continent of the world except Antarctica. Snakes have internal ears but not external ones. ... Some species of snake, such as cobras and black mambas, use venom to hunt and kill their prey.</td>
+                </tr>
+                  <tr>
+                    <td style="border: solid 1px">Cameleon</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/chameleon.jpeg"></td>
+                    <td style="border: solid 1px">Land</td>
+                    <td style="border: solid 1px">189,000</td>
+                    <td style="border: solid 1px">Herbivore</td>
+		    <td style="border: solid 1px">Chameleons are reptiles that are part of the iguana suborder. These colorful lizards are known as one of the few animals that can change skin color. However, it is a misconception that chameleons change colors to match their surroundings.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Lizard</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/lizard.jpeg"></td>
+                    <td style="border: solid 1px">Land</td>
+                    <td style="border: solid 1px">198,000</td>
+                    <td style="border: solid 1px">Herbivore</td>
+		    <td style="border: solid 1px">Lizards are small cold-blooded reptiles that have a long tail, eyelids, and usually have four legs with five toes on each foot (a group of lizards called amphisbaenas have no legs). ... Only two types of lizards are poisonous. They are the gila monster and the related beaded lizard of the North American deserts</td>
+                </tr>
+
+		<tr>
+		    <td rowspan="3" style="border: solid 1px">Birds</td>
+                    <td style="border: solid 1px">Parrot</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/parrot.jpeg"></td>
+                    <td style="border: solid 1px">Air</td>
+                    <td style="border: solid 1px">170,000</td>
+                    <td style="border: solid 1px">Herbivore</td>
+		    <td style="border: solid 1px">Parrots have curved bills (beaks), strong legs and clawed feet. Parrots are believed to be one of the most intelligent bird species. ... Parrots such as the budgerigar (budgie) and cockatiel are popular as pets. Some parrot species can live for over 80 years.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Owl</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/owl.jpeg"></td>
+                    <td style="border: solid 1px">Air</td>
+                    <td style="border: solid 1px">167,000</td>
+                    <td style="border: solid 1px">Omnivore</td>
+		    <td style="border: solid 1px">Most owls hunt insects, small mammals and other birds. Owls have powerful talons (claws) which help them catch and kill prey. Owls have large eyes and a flat face. Owls can turn their heads as much as 270 degrees.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Penguin</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/penguin.jpeg"></td>
+                    <td style="border: solid 1px">Ice</td>
+                    <td style="border: solid 1px">198,000</td>
+                    <td style="border: solid 1px">Carnivore</td>
+		    <td style="border: solid 1px">Most penguins feed on krill, fish, squid and other forms of sea life which they catch while swimming underwater. ... Although almost all penguin species are native to the Southern Hemisphere, they are not found only in cold climates, such as Antarctica. In fact, only a few species of penguin live so far south.</td>
+                </tr>
+		<tr>
+		    <td rowspan="3" style="border: solid 1px">Amphibians</td>
+                    <td style="border: solid 1px">Frog</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/frog2.jpg"></td>
+                    <td style="border: solid 1px">Water/Land</td>
+                    <td style="border: solid 1px">189,000</td>
+                    <td style="border: solid 1px">Omnivore</td>
+		    <td style="border: solid 1px">Frogs are amphibians that are known for their jumping abilities, croaking sounds, bulging eyes and slimy skin. They live all over the world and are among the most diverse animals in the world, with more than 6,00/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity30 species. Frogs substantially outnumber the two other groups of amphibians — salamanders and caecilians.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Salamander</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/salamander.jpg"></td>
+                    <td style="border: solid 1px">Water/Land</td>
+                    <td style="border: solid 1px">150,000</td>
+                    <td style="border: solid 1px">Omnivore</td>
+		    <td style="border: solid 1px">Salamanders. Salamanders encompass approximately 500 species of amphibians. They typically have slender bodies, short legs, and long tails. Usually found in moist or arid habitats in the northern hemisphere, most salamanders are small, although there are two species that reach up to 5 feet in length.</td>
+                </tr>
+		<tr>
+                    <td style="border: solid 1px">Crocodile</td>
+                    <td style="border: solid 1px"> <img src="/home/khierbobeda/Desktop/codestop-immersion/HTMLCSS_Activity3/croc.jpeg"></td>
+                    <td style="border: solid 1px">Water/Land</td>
+                    <td style="border: solid 1px">168,000</td>
+                    <td style="border: solid 1px">Omnivore</td>
+	            <td style="border: solid 1px">Crocodiles are large reptiles found in tropical regions of Africa, Asia, the Americas and Australia. They are members of the order Crocodilia, which also includes caimans, gharials and alligators.</td>
+                </tr>
+
+                <tr style="border: solid 1px">
+                    <td colspan="6"> Updated record as of 2019</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <div class="footer">
+            <p><a href="https://biologywise.com/classification-of-animals/">Visit our official Website!</a></p>
+        </div>
+    </body>
+</html>
