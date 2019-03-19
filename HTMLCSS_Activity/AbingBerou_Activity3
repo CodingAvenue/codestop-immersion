@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<hmtl>
+	<head>
+	<style>
+		img {
+			    border: 3px dashed red;
+			    height: 50px;
+			    width: 200px;
+		    }
+		 th {
+			color: black;  
+	                background-color: yellow;    
+            	    }
+	</style>	
+		<title> Using Tables</title>
+	</head>
+	<body>
+		<table style= "border:  1px; text-align: center; border collapse: collapse ">
+			<caption>Liptint Record</caption>
+			<thead>
+				<tr>
+					
+					<th rowspan="2" style="border: solid 3px">Year Level</th>
+					<th style= "border: solid 3px">Brand</th>
+					<th style= "border: solid 3px">Gender</th>
+					<th style= "border: solid 3px">Age</th>
+					<th style= "border: solid 3px">Size</th>
+				</tr>
+			</thead>
+			<tbody>
+
+				<tr>
+					<td style= "border: solid 3px">COLLEGE</td>
+					
+				</tr>
+				<tr>
+					<td><img src ="nigger.jpg" height="500px" width="1000px"/></td>
+					<td style= "border: solid 5px">Everbelina</td>
+					<td style= "border: solid 5px">Female</td>
+					<td style= "border: solid 5px">20</td>
+					<td style= "border: solid 5px">2.5ml</td>
+				</tr>
+				<tr>
+					<td style= "border: solid 3px">SENIOR HIGH</td>
+				</tr>
+				<tr>
+				 	<td><img scr ="simply pretty.jpg" height="500px" width="1000px"/></td>
+					<td style= "border: solid 5px">AVON</td>
+					<td style= "border: solid 5px">Gay</td>
+					<td style= "border: solid 5px">18</td>
+					<td style= "border: solid 5px">10ml</td>
+				</tr>
+				<tr>
+					<td style= "border: solid 3px">ELEMENTARY</td>
+					
+				</tr>
+				<tr>
+					<td><img src ="lipbalm.jpg" height="500px" width="1000px"/></td>
+					<td style= "border: solid 5px">Lipbalm</td>
+					<td style= "border: solid 5px">Female</td>
+					<td style= "border: solid 5px">12</td>
+					<td style= "border: solid 5px">5ml</td>
+				</tr>
+				
+				<tr style= "border: solid 1px"> 
+
+				    <td colspan= "4"> Updated Record as of 2018</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
+
