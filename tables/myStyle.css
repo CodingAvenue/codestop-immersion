@@ -1,0 +1,26 @@
+* {
+	font-family:bahnschrift;
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	background-color: white;
+}
+td {
+	border-collapse: collapse;
+	border: solid 1px;
+	padding: 10px;
+}
+th {
+	border-collapse: collapse;
+	border: solid 5px;
+	padding: 10px;
+}
+body {
+	background-color:#B8B8B8;
+}
+img {
+	width:130px;
+	height: 180px;
+	border: solid 3px;
+}
