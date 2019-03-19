@@ -1,0 +1,23 @@
+table {
+	border-collapse: collapse;
+	
+}
+th {
+	border: solid 2px;
+	padding: 1px;
+	text-align: center;
+	background-color: #ff0000;
+}
+td {
+	border: solid 1px;
+	padding: 50px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+img {
+	width: 70px;
+	height: 50px;
+}
