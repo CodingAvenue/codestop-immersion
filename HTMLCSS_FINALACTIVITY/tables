@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Using Tables</title>
+    </head>
+    <body>
+        <table style="border: solid 1px; text-align: center; border-collapse: collapse">
+            <caption>Student Record</caption>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th style="border: solid 1px">Gender</th>
+                    <th style="border: solid 1px">Name</th>
+                    <th style="border: solid 1px">Age</th>
+					<th style="border: solid 1px">Picture</th>
+                    <th style="border: solid 1px">Height in cm</th>
+                    <th style="border: solid 1px">Date of Birth(m/d/yyyy)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="2" style="border: solid 1px">Grade 11</td>
+                    <td style="border: solid 1px">Female</td>
+                    <td style="border: solid 1px">Zytka Laverne Torralba</td>
+                    <td style="border: solid 1px">18</td>
+					<td><img width="100px" height="100px" src="50003906_585258515252953_6881009144061493248_n.jpg"></td>
+                    <td style="border: solid 1px">145</td>
+                    <td style="border: solid 1px">12/29/2001</td>
+					
+                </tr>
+                <tr>
+                    <td style="border: solid 1px">Male</td>
+                    <td style="border: solid 1px">Jeremy Hilario Lumibaw</td>
+                    <td style="border: solid 1px">17</td>
+					<td><img  width="100px" height="100px" src="44783333_2279422302086024_3133834007196729344_n.jpg"></td>
+                    <td style="border: solid 1px">155</td>
+                    <td style="border: solid 1px">07/05/</td>
+					
+                </tr>
+                <tr>
+                    <td rowspan="2" style="border: solid 1px">Grade 12</td>
+                    <td style="border: solid 1px">Female</td>
+                    <td style="border: solid 1px">Mary Fleur De May M.Mission</td>
+                    <td style="border: solid 1px">23</td>
+					<td><img width="100px" height="100px" src="42861052_728190834183095_8124449489613225984_n.jpg"></td>
+                    <td style="border: solid 1px">165</td>
+                    <td style="border: solid 1px">05/21/1995</td>
+					
+                </tr>
+                  <tr>
+                    <td style="border: solid 1px">Male</td>
+                    <td style="border: solid 1px">Chrisitian Jay Carmen</td>
+                    <td style="border: solid 1px">17</td>
+					<td><img width="100px" height="100px" src="48381324_2176623389221955_6792612824414683136_n.jpg"></td>
+                    <td style="border: solid 1px">130</td>
+                    <td style="border: solid 1px">04/6/1991</td>
+					
+                </tr>
+                <tr style="border: solid 1px">
+                    <td colspan="6"> Updated record as of 2019</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
+
+     
