@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <style>
+             h1 {
+                  color: Red;
+                  font-size: 20px;
+             }
+         </style>
+     </head>
+
+     <body>
+         <h1>HELLO MARY FLEUR</h1>
+         <h1>Working with Image</h1>
+         <img src="/Users/codingavenue/Desktop/untitled_folder/anime.jpg" alt="anime" title="anime lovers to all he students in school also in house." />
+         <p> A anime lovers always thinks in a positive way even though if their language is japanese or chinese language soe student or people love to watch anime movie and comic magazine in life.</p>
+         <img src="/Users/codingavenue/Desktop/untitled_folder/anime 3d.jpg" alt="anime" title="anime lovers to all he students in school also in house."
+     </body>
+ </html>
